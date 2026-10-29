@@ -39,7 +39,7 @@
     "@vercel/sandbox": "^1.9.0",
     "jiti": "^2.4.0",
     "minimatch": "^10.0.0",
-    "tar": "^7.5.13"
+    "tar": "^7.5.21"
   },
   "devDependencies": {
     "@deepsec/core": "workspace:*",
@@ -48,6 +48,6 @@
     "commander": "^13.0.0",
     "dotenv": "^16.4.0",
     "dts-bundle-generator": "^9.5.1",
-    "esbuild": "^0.25.12"
+    "esbuild": "^0.28.2"
   }
 }
